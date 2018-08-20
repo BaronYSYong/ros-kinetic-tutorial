@@ -15,9 +15,9 @@ RUN export UBUNTU_VERSION=xenial && export ROS_VERSION=kinetic && \
 	libatlas3-base --yes vim && \
 	pip install requests && \    
 	rosdep init && rosdep update && \
-    echo ". /opt/ros/$ROS_VERSION/setup.bash" >> ~/.bashrc && \
-    source ~/.bashrc && \ 
-	apt-get install -y ccache &&\
+    echo "source /opt/ros/$ROS_VERSION/setup.bash" >> ~/.bashrc
+
+RUN	apt-get install -y ccache &&\
 	echo 'export PATH="/usr/lib/ccache:$PATH"' | tee -a ~/.bashrc &&\
 	source ~/.bashrc && echo $PATH && \
 	ccache --max-size=10G
