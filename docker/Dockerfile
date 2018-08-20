@@ -19,7 +19,6 @@ RUN export UBUNTU_VERSION=xenial && export ROS_VERSION=kinetic && \
 
 RUN	apt-get install -y ccache &&\
 	echo 'export PATH="/usr/lib/ccache:$PATH"' | tee -a ~/.bashrc &&\
-	source ~/.bashrc && echo $PATH && \
 	ccache --max-size=10G
 	
     
