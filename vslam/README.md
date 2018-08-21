@@ -7,3 +7,4 @@
 	* [Installation](https://github.com/ethz-asl/maplab/wiki/Installation-Ubuntu)
 	* [Running-ROVIOLI-in-VIO-mode](https://github.com/ethz-asl/maplab/wiki/Running-ROVIOLI-in-VIO-mode)
 	* [Console Map Management](https://github.com/ethz-asl/maplab/wiki/Console-map-management)
+	* [Rosbag sample](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)
