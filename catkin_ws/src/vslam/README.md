@@ -10,3 +10,7 @@
     * [Rosbag sample](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)
 * ORB SLAM
     * https://medium.com/@j.zijlmans/orb-slam-2052515bd84c
+* Octomap
+    * http://wiki.ros.org/octomap_server
+    * http://wiki.ros.org/mallasrikanth/octomap
+    
