@@ -8,6 +8,8 @@
     * [Running-ROVIOLI-in-VIO-mode](https://github.com/ethz-asl/maplab/wiki/Running-ROVIOLI-in-VIO-mode)
     * [Console Map Management](https://github.com/ethz-asl/maplab/wiki/Console-map-management)
     * [Rosbag sample](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)
+    * https://www.youtube.com/watch?v=jGd7SdSqeSg&list=WL&index=174&t=0s
+    * [ROVIO: Robust Visual Inertial Odometry](https://www.youtube.com/watch?v=ZMAISVy-6ao&list=WL&index=175&t=0s)
 * ORB SLAM
     * https://medium.com/@j.zijlmans/orb-slam-2052515bd84c
 * Octomap
@@ -16,3 +18,5 @@
 * cartographer
    * https://www.youtube.com/watch?v=j8f3_xuKdUQ&list=WL&index=155&t=0s
    
+## Youtube
+* https://www.youtube.com/watch?v=XuA5vHRhqO8&list=WL&index=176&t=0s
