@@ -15,3 +15,6 @@ $ rostopic pub my_topic std_msgs/String "hello there"
 # e.g.
 $ catkin_create_pkg beginner_tutorials std_msgs rospy roscpp
 ```
+```
+$ rosrun tf tf_echo /map /odom
+```
