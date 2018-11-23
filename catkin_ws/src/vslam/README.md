@@ -21,5 +21,11 @@
 * kalibr
    * https://www.youtube.com/watch?v=puNXsnrYWTY&app=desktop
 
+## ROS Command
+```
+$ rosrun map_server map_saver map:=projected_map
+```
+
+
 ## Youtube
 * https://www.youtube.com/watch?v=XuA5vHRhqO8&list=WL&index=176&t=0s
