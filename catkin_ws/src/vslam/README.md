@@ -15,6 +15,7 @@
    * https://www.youtube.com/watch?v=puNXsnrYWTY&app=desktop
 * map server
    * http://wiki.ros.org/map_server
+* https://github.com/muskie82/CNN-DSO
 
 ## ROS Command
 ```
