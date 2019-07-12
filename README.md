@@ -5,6 +5,7 @@
 * http://wiki.ros.org/topic_tools/throttle
 * [nodelet](http://cryborg.hatenablog.com/entry/2016/09/19/154712)
 * https://astar.ai/pages/slam
+* [lex_node](http://wiki.ros.org/lex_node)
 
 ## Sample
 * publish message in command
