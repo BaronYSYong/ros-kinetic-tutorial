@@ -16,6 +16,7 @@
 * map server
    * http://wiki.ros.org/map_server
 * https://github.com/muskie82/CNN-DSO
+* [SlamHub](https://slamhub.xslam.org/?0)
 
 ## ROS Command
 ```
